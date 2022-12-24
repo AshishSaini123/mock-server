@@ -1,0 +1,188 @@
+{
+  "Easy": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What state is the largest state of the United States of America?",
+      "correct_answer": "Alaska",
+      "incorrect_answers": [
+        "California",
+        "Texas",
+        "Washington"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of Indonesia?",
+      "correct_answer": "Jakarta",
+      "incorrect_answers": [
+        "Bandung",
+        "Medan",
+        "Palembang"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many federal states does Germany have?",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "13",
+        "32",
+        "25"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which US state has the highest population?",
+      "correct_answer": "California",
+      "incorrect_answers": [
+        "New York",
+        "Texas",
+        "Florida"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of Spain?",
+      "correct_answer": "Madrid",
+      "incorrect_answers": [
+        "Barcelona",
+        "Sevilla",
+        "Toledo"
+      ]
+    }
+  ],
+  "Medium": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital of Peru?",
+      "correct_answer": "Lima",
+      "incorrect_answers": [
+        "Santiago",
+        "Montevideo",
+        "Buenos Aires"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many sovereign states are members of the United Nations?",
+      "correct_answer": "195",
+      "incorrect_answers": [
+        "201",
+        "153",
+        "178"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which European city has the highest mileage of canals in the world?",
+      "correct_answer": "Birmingham",
+      "incorrect_answers": [
+        "Venice",
+        "Amsterdam",
+        "Berlin"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many countries does Spain have a land border with?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
+      "correct_answer": "Zambia &amp; Zimbabwe",
+      "incorrect_answers": [
+        "Togo &amp; Benin",
+        "Lesotho &amp; Swaziland",
+        "Rwanda &amp; Burundi"
+      ]
+    }
+  ],
+  "Hard": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+      "correct_answer": "Lishana Deni",
+      "incorrect_answers": [
+        "Hulaul&aacute;",
+        "Lishan Didan",
+        "Chaldean Neo-Aramaic"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Hunua Ranges is located in...",
+      "correct_answer": "New Zealand",
+      "incorrect_answers": [
+        "Nepal",
+        "China",
+        "Mexico"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What city is known as the Rose Capital of the World?",
+      "correct_answer": "Tyler, Texas",
+      "incorrect_answers": [
+        "San Diego, California",
+        "Miami, Florida",
+        "Anaheim, California"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the Canadian national anthem?",
+      "correct_answer": "O Canada",
+      "incorrect_answers": [
+        "O Red Maple",
+        "Leaf-Spangled Banner",
+        "March of the Puck Drop"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+      "correct_answer": "Niagara Falls",
+      "incorrect_answers": [
+        "Whistler, British Columbia",
+        "Disney World",
+        "Yosemite National Park"
+      ]
+    }
+  ]
+}
